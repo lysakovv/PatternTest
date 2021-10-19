@@ -11,7 +11,12 @@ public class DataLoader {
             "Состояние(State)",
             "Шаблонный метод(Template Method)",
             "Посетитель(Visitor)",
-            "Абстрактная фабрика(Abstract factory)"
+            "Абстрактная фабрика(Abstract factory)",
+            "Компоновщик(Composite)",
+            "Приспособленец(flyweight)",
+            "Фасад(facade)",
+            "Декоратор(decorator)",
+            "Строитель(builder)"
     };
 
     public static Pattern loadPatternByIndex(int index) {
